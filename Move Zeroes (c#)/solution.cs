@@ -28,17 +28,5 @@
         Array.Copy(arr, 0, nums, 0, arr.Length);
     }
 
-    private static void Main(string[] args)
-    {
-        MoveZeroes mz = new MoveZeroes();
-        int[] tes = [0, 1, 0, 3, 12];
-
-        mz.moveZeroes(tes);
-
-        for (int i = 0; i < tes.Length; i++)
-        {
-            Console.WriteLine($"Our inaaaadex [{i}] is {tes[i]}");
-
-        };
-    }
+   
 }
