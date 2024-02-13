@@ -40,17 +40,7 @@ namespace ProblemSolving.Square_Of_Sorted_Array
 
 
 
-        public static void Main(string[] args)
-        {
-            squareSortedArray s = new squareSortedArray();
-            int[] arr = [-4, -2, 5, 2];
-            s.SortedSquares(arr);
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.WriteLine($"index {i} value is {arr[i]}");
-            }
-
-        }
+        
     }
 
 
