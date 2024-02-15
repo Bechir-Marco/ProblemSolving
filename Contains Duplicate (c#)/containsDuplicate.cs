@@ -52,12 +52,7 @@ namespace ProblemSolving.Contains_Duplicate
 
             return false;
         }
-        public static void Main(string[] args)
-        {
-            containsDuplicate c = new containsDuplicate();
-            Boolean r = c.ContainsNearbyDuplicate([1, 2, 3, 1, 2, 3], 2);
-            Console.WriteLine($" res is {r}");
-        }
+       
 
     }
 }
