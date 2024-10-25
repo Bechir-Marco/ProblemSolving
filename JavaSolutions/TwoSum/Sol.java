@@ -7,24 +7,21 @@ import java.util.HashMap;
 public class Sol {
 
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> sums = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
+        // Populate map with values and their indices
         for (int i = 0; i < nums.length; i++) {
-            sums.put(nums[i], i);
+            map.put(nums[i], i);
         }
-
-        int[] result = new int[2];
 
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
-            if (sums.containsKey(complement) && sums.get(complement) != i) {
-                result[0] = i;
-                result[1] = sums.get(complement);
-                break;
+
+            if (map.containsKey(complement) && map.get(complement) != i) {
+                return new int[]{i, map.get(complement)};
             }
         }
 
-        return result;
+        return new int[0];
     }
-
 }
