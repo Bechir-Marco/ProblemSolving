@@ -1,33 +1,20 @@
 package Longest_Harmonious_Subsequence;
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Sol {
     public int findLHS(int[] nums) {
-          int num=0,max=0;
-        Arrays.sort(nums);
-        for (int i = 0; i <nums.length ; i++) {
-            if (hasSuccesor(nums,nums[i])){
-                num = successorAndItselfRepetition(nums,nums[i]);
-
-            }
-            max=Math.max(num,max);
-
+        HashMap<Integer, Integer> mapToCOunt = new HashMap<>();
+        for (int num : nums) {
+            mapToCOunt.put(num, mapToCOunt.getOrDefault(num, 0) + 1);
+        }
+        int max =0;
+        for (int n : mapToCOunt.keySet()) {
+            if (mapToCOunt.containsKey(n+1))
+            max = Math.max(mapToCOunt.get(n+1)+mapToCOunt.get(n),max);
         }
         return max;
-    }
-      static  int successorAndItselfRepetition(int[] nums,int k){
-        int rep =0;
-        for (int i= 0; i< nums.length;i++){
-            if (nums[i]==k || nums[i]==k+1) rep ++;
-        }
-        return rep;
-    }
-    static boolean hasSuccesor (int [] nums,int k){
-
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i]==k+1) return true;
-        }
-        return false;
     }
 }
