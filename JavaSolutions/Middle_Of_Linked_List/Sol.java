@@ -15,6 +15,7 @@ public class Sol {
         }
         return prev;
     }
+    
 }
 class ListNode {
     int val;
