@@ -12,6 +12,8 @@ class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
     
 
+        result = []
+
         def traverse(node):
             if node:
                 traverse(node.left)  
