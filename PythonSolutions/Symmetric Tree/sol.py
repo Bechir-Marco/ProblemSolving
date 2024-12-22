@@ -13,4 +13,3 @@ class Solution:
             return (leftNode.val == rightNode.val and isSame(leftNode.left,rightNode.right) and isSame(leftNode.right, rightNode.left))
         
         return isSame(root.left,root.right)
-    
