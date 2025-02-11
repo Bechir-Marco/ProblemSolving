@@ -20,5 +20,6 @@ Clone And Enjoy!
 ## String
 |  |
 | ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0434-number-of-segments-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
