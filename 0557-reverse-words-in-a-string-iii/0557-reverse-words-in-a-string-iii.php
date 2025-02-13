@@ -7,13 +7,13 @@ class Solution {
 function reverseWords($s) {
     
     $words = preg_split('/\s+/', $s);
+    print_r($words);
     
     foreach ($words as &$word) {
-        if (!preg_match('/^\s+$/', $word)) { 
+        
             $word = strrev($word); 
-        }
+        
     }
-    return implode(' ',$words);
-  
+    return implode(' ', $words);
 }
 }
