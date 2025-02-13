@@ -24,12 +24,14 @@ Clone And Enjoy!
 | [0392-is-subsequence](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0459-repeated-substring-pattern) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1205-defanging-an-ip-address](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1205-defanging-an-ip-address) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0392-is-subsequence) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
