@@ -4,22 +4,12 @@ class Solution {
      * @param String $s
      * @return Boolean
      */
-  function isPalindrome($s) {
-        if (strlen($s)==1) return true;
+ function isPalindrome($s) {
         
-        $s = strtolower($s);
-        $news= "";
-        $res="";
-         for ($i =0; $i<strlen($s);$i++): 
-            
-            if(($s[$i]>='a' && $s[$i]<='z' || is_numeric($s[$i]))):
-                
-                $news.=$s[$i];
-                $res= $s[$i]. $res;
-            endif; 
-        endfor;
-        ;
-        return  ($news == $res);
+        $news= strtolower($s);
+        $pattern = '/[^a-z0-9]/';
+        $news = preg_replace($pattern,'',$news);
+        return  ($news === strrev($news));
         
     }
 }
