@@ -27,6 +27,7 @@ Clone And Enjoy!
 | [0459-repeated-substring-pattern](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0965-unique-email-addresses](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1205-defanging-an-ip-address) |
 ## Two Pointers
@@ -48,10 +49,12 @@ Clone And Enjoy!
 ## Array
 |  |
 | ------- |
+| [0965-unique-email-addresses](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Hash Table
 |  |
 | ------- |
+| [0965-unique-email-addresses](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Counting
 |  |
