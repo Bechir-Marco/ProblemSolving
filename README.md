@@ -13,6 +13,7 @@ Clone And Enjoy!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -43,6 +44,7 @@ Clone And Enjoy!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1013-fibonacci-number) |
 ## String Matching
@@ -72,5 +74,6 @@ Clone And Enjoy!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
