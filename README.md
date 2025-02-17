@@ -22,6 +22,7 @@ Clone And Enjoy!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0459-repeated-substring-pattern) |
@@ -54,10 +55,15 @@ Clone And Enjoy!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0965-unique-email-addresses](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Counting
 |  |
 | ------- |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
