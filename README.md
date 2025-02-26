@@ -15,6 +15,7 @@ Clone And Enjoy!
 | [0002-add-two-numbers](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Clone And Enjoy!
 | [0392-is-subsequence](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1236-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -78,4 +80,5 @@ Clone And Enjoy!
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
