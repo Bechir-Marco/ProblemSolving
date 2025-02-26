@@ -46,6 +46,7 @@ Clone And Enjoy!
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
@@ -55,6 +56,7 @@ Clone And Enjoy!
 ## Array
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0747-min-cost-climbing-stairs) |
 | [0965-unique-email-addresses](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Hash Table
