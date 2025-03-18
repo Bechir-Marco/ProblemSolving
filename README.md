@@ -24,6 +24,7 @@ Clone And Enjoy!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0242-valid-anagram) |
@@ -81,4 +82,8 @@ Clone And Enjoy!
 | [0070-climbing-stairs](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bechir-Marco/ProblemSolving/tree/master/1236-n-th-tribonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bechir-Marco/ProblemSolving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
